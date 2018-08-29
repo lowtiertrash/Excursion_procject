@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.cty {
+  color: aquamarine;
+  font-size: 16px;
+}
